@@ -1,0 +1,5 @@
+body {
+    color: hsl(0, 0%, 100%); /* Sets the font color for the whole body */
+    font-family: Arial, sans-serif;
+    background-color: #14727d;
+}
